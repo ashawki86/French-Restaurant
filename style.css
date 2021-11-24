@@ -1,0 +1,99 @@
+body{
+    background-color: transparent;
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.home {
+
+    text-align: center;
+    background-image: url(imgs/bg.jpg);
+    background-size: cover;
+    height: 100vh;
+    overflow: hidden;
+    
+}
+
+
+.container img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+  
+
+}
+.container h1 {
+    text-align: center;
+    color: white;
+}
+.container p{
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+.container button{
+    
+    padding: 20px;
+    border: none;
+    border-radius: 5px;
+    display: inline-block;
+    text-align: center;
+}
+.more {
+    background-color: tan;
+    
+}
+
+.next img{
+    float: left;
+    width: 40%;
+}
+.text {
+    text-align: center;
+    float: right;
+    width: 60%;
+}
+.text h3 {
+    color: #f2ce08;
+    font-size: 28px;
+    font-family: 'Dancing Script', cursive;
+    margin-bottom: 30px;
+}
+.text h2 {
+font-weight: 600;
+margin-bottom: 20px;
+}
+
+.text p {
+    width: 80%;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-left: 70px;
+    }
+    .next button {
+        background-color: transparent;
+        padding: 15px 20px;
+        border: solid black 2px;
+    }
+    
+    .clearfix {
+        clear: both;
+    }
+
+
+.mydata{
+    border-radius: 30px;
+    background-color: tan;
+    margin-top: -30px;
+    margin-bottom: 8px;
+    height: 10vh;
+}
+.mydata h4 {
+    text-align: center;
+    color: #ffd900;
+    font-size: 28px;
+    font-family: 'Dancing Script', cursive;
+    padding-top: 10px;
+
+}
